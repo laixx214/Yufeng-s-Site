@@ -1,14 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Vanishing racial disparities in drowning in Florida"
-authors: [Marina Mileo Gorsuch, Samuel L Myers Jr., Yufeng Lai, Devan Steward,
-Rachel Motachwa4]
-date: 2018-10
-doi: "10.1136/injuryprev-2018-042872"
+title: "Competitive swimming and racial disparities in drowning"
+authors: [Samuel L. Myers Jr, Ana Cuesta & Yufeng Lai]
+date: 2017-05-10
+doi: "doi.org/10.1007/s12114-017-9248-y"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10
+publishDate:
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,10 +16,10 @@ publishDate: 2020-10
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Injury prevention"
+publication: "The Review of Black Political Economy"
 publication_short: ""
 
-abstract: ""
+abstract: "This paper provides evidence of an inverse relationship between competitive swimming rates and drowning rates using Centers for Disease Control and Prevention (CDC) data on fatal drowning rates and membership rates from USA Swimming, the governing organization of competitive swimming in the United States. Tobit and Poisson regression models are estimated using panel data by state from 1999 to 2007 separately for males, females, African Americans and whites. The strong inverse relationship between competitive swimming rates and unintentional deaths through fatal drowning is most pronounced among African Americans males."
 
 # Summary. An optional shortened abstract.
 summary: ""

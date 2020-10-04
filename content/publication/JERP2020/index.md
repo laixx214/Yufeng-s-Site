@@ -7,7 +7,7 @@ date: 2020-08-01
 doi: "10.1007/s41996-020-00063-0"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-08-01
+publishDate:
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
