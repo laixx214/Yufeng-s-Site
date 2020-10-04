@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Journal of Women and Minorities in Science and Engineering"
+title: "Pathways vs. pipelines to broadening participation in the STEM workforce"
 authors: [Kaye Husbands Fealing, Yufeng Lai, Samuel L. Myers, Jr.]
 date: 2015-04-01
 doi: "10.1615/JWomenMinorScienEng.2015004760"
