@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Consumer Willingness to Pay for Organic and Animal Welfare Product Attributes: Do Experimental Results Align with Market Data?"
-authors: [Yufeng Lai & Chengyan]
-date: 2020-09-10
-doi: "10.22004/ag.econ.303605"
+title: "Consumer Preferences for Sustainable Product Attributes and Farm Program Features"
+authors: [Chengyan Yue, Yufeng Lai, Jingjing Wang and Paul Mitchell]
+date: 2020-09-09
+doi: "10/ghdn76"
 
 # Schedule page publish date (NOT publication's date).
 publishDate:
@@ -16,10 +16,11 @@ publishDate:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Agricultural and Resource Economics"
-publication_short: "JARE"
+publication: "Sustainability"
+publication_short: ""
 
-abstract: "This study estimates distributions of consumer willingness to pay (WTP) for organic and animal welfare product attributes using the store scanner data and compares the results to existing experiment-based findings. We find that the WTP premium estimated for organic eggs is consistent with experimental results, while estimated WTP premiums for animal welfare attributes are significantly lower than experimental findings. The results suggest the importance of considering biases when estimating the price premium for animal welfare attributes in experiments. In addition, consumers are not always willing to pay premiums for organic products. Our results also show that WTP premiums are heterogeneous across store brands."
+abstract: "Previous literature primarily focused on consumers’ preference for specific sustainable attributes, such as a product being organic, eco-friendly, locally grown, and fair trade. Little is known about consumers’ preference for sustainable program features. We conduct two online choice experiments with U.S. consumers and find that consumers consistently care about farmers’ engagements in sustainable programs, and they are willing to pay a price premium for products from such programs. Consumers also value promoting science in sustainability, establishing concrete measurements of sustainability, and communicating sustainable practices with consumers and downstream industries. We apply the latent class logit model to investigate the potential segmentation of consumers. Three consumer segments are identified based on participants’ heterogeneity in
+preferences. Our research provides useful information for designing new sustainability programs."
 
 # Summary. An optional shortened abstract.
 summary: ""
