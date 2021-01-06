@@ -22,8 +22,10 @@ bio:
 
 interests:
 - Consumer Behavior
-- Agriculture Economics
+- Industrial Organization
 - Marketing Economics
+- Agriculture Economics
+
 
 education:
   courses:
