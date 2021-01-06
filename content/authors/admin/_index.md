@@ -69,4 +69,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Yufeng Lai is a Ph.D. candidate in the Department of Applied Economics, University of Minnesota. His primary focus is Consumer Behavior and Demand Estimation, Agriculture Economics, and Marketing Economics.
+Yufeng Lai is a Ph.D. candidate at the Department of Applied Economics, University of Minnesota. His primary focuses are Consumer Behavior, Industrial Organization, Marketing Economics, and Agriculture Economics.
