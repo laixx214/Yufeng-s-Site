@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Consumer Willingness to Pay for Organic and Animal Welfare Product Attributes: Do Experimental Results Align with Market Data?"
-authors: [Yufeng Lai & Chengyan]
+authors: [Yufeng Lai, Chengyan]
 date: 2020-09-10
 doi: "10.22004/ag.econ.303605"
 

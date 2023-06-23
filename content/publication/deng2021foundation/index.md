@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Foundation Giving and Economics Research Productivity at HBCUs: Empirical Evidence from the Koch Foundation"
-authors: [Shuyi Deng, Yufeng Lai, Samuel L. Myers Jr. and Man Xu]
-date: 2020-08-01
+authors: [Shuyi Deng, Yufeng Lai, Samuel L Myers, Man Xu]
+date: 2021-12-01
 doi: "10.1007/s41996-020-00063-0"
 
 # Schedule page publish date (NOT publication's date).

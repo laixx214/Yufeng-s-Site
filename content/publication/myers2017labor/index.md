@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Consumer Preferences for Sustainable Product Attributes and Farm Program Features"
-authors: [Chengyan Yue, Yufeng Lai, Jingjing Wang and Paul Mitchell]
-date: 2020-09-09
-doi: "10/ghdn76"
+title: "The Labor Market for Lifeguards and Hispanic Drowning Rates"
+authors: [Samuel L. Myers, Jr., Marina Gorsuch, Yufeng Lai, Devan Steward, Diana Vega Vega, Rachel Motachwa]
+date: 2017-09-09
+doi: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9281996/"
 
 # Schedule page publish date (NOT publication's date).
 publishDate:
@@ -16,11 +16,10 @@ publishDate:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Sustainability"
+publication: "Hisp Econ Outlook"
 publication_short: ""
 
-abstract: "Previous literature primarily focused on consumers’ preference for specific sustainable attributes, such as a product being organic, eco-friendly, locally grown, and fair trade. Little is known about consumers’ preference for sustainable program features. We conduct two online choice experiments with U.S. consumers and find that consumers consistently care about farmers’ engagements in sustainable programs, and they are willing to pay a price premium for products from such programs. Consumers also value promoting science in sustainability, establishing concrete measurements of sustainability, and communicating sustainable practices with consumers and downstream industries. We apply the latent class logit model to investigate the potential segmentation of consumers. Three consumer segments are identified based on participants’ heterogeneity in
-preferences. Our research provides useful information for designing new sustainability programs."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""

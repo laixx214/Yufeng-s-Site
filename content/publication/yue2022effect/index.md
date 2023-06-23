@@ -1,11 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Vanishing racial disparities in drowning in Florida"
-authors: [Marina Mileo Gorsuch, Samuel L Myers Jr., Yufeng Lai, Devan Steward,
-Rachel Motachwa4]
-date: 2018-10-23
-doi: "10.1136/injuryprev-2018-042872"
+title: "Effect of geographic distance on domestic trade: A case of the US Green industry"
+authors: [Chengyan Yue, Yufeng Lai, Hayk Khachatryan, Alan Hodges]
+date: 2021-07-21
+doi: "https://doi.org/10.1002/agr.21715"
 
 # Schedule page publish date (NOT publication's date).
 publishDate:
@@ -17,16 +16,10 @@ publishDate:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Injury prevention"
+publication: "Agribusiness"
 publication_short: ""
 
-abstract: "Objectives: To examine the change in the racial disparity in drowning in Florida from 1970 to 2015 and to analyse the contextual factors associated with white, black and Hispanic drowning rates in Florida from 2007 to 2015.
-
-Methods: Our outcome variable is county-level annual drowning rates by race, ethnicity, sex and age group. We computed county-level contextual data, including emergency weather events, temperature, extreme weather, number of pools, quality of pools, coastline, swimming participation rates and prominent black competitive swim teams.
-
-Results: Between 1970 and 1990, the disparity in drowning rates between white and black males in Florida decreased dramatically. By 2005, the overall age-adjusted drowning rates converged. This convergence was most striking for those aged 10-34 and 35-64. While the gap has declined dramatically, there remains a racial disparity in drownings among those aged 10-34.
-
-Conclusions: Overall, racial disparities in drowning have disappeared in Florida. However, some disparities remain. There is a persistent disparity in drownings among those aged 10-34."
+abstract: "The prediction that the effect of geographic distance as a barrier for trade will decrease over time and eventually be eliminated as a result of technological developments has been proposed for decades. However, empirical evidence suggests the negative effect of geographic distance persists in both international and domestic trade. This study uses data from a national survey of nursery and greenhouse growers in the United States to investigate the effect of geographic distance on trade. We model trades as a two-step process in which selling firms and buyers were matched first, and then a positive trade flow occurs conditional on the match. This process leads to a simple zero-inflated estimation strategy and provides a meaningful interpretation of the zero-trades. We demonstrate that this approach predicts the overall trade flow better than the Poisson or Gamma Pseudo Maximum Likelihood (PML) approach, due to its ability to predict zero trade flows more accurately. The empirical results indicate the effect of distance on trade volume is large and statistically significant. In addition, firms trade almost exclusively with partners in the home state or in states with branch offices. We find that social media and website advertising is much less effective in increasing the trade flow than traditional advertising channels."
 
 # Summary. An optional shortened abstract.
 summary: ""
