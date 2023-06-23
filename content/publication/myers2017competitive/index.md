@@ -4,7 +4,7 @@
 title: "Competitive swimming and racial disparities in drowning"
 authors: [Samuel L. Myers Jr, Ana Cuesta & Yufeng Lai]
 date: 2017-05-10
-doi: "doi.org/10.1007/s12114-017-9248-y"
+doi: "10.1007/s12114-017-9248-y"
 
 # Schedule page publish date (NOT publication's date).
 publishDate:

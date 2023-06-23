@@ -4,7 +4,7 @@
 title: "The Labor Market for Lifeguards and Hispanic Drowning Rates"
 authors: [Samuel L. Myers, Jr., Marina Gorsuch, Yufeng Lai, Devan Steward, Diana Vega Vega, Rachel Motachwa]
 date: 2017-09-09
-doi: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9281996/"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate:
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9281996/
 url_code:
 url_dataset:
 url_poster:

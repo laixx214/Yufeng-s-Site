@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal of Agricultural and Resource Economics"
-publication_short: "JARE"
+publication_short: ""
 
 abstract: "This study estimates distributions of consumer willingness to pay (WTP) for organic and animal welfare product attributes using the store scanner data and compares the results to existing experiment-based findings. We find that the WTP premium estimated for organic eggs is consistent with experimental results, while estimated WTP premiums for animal welfare attributes are significantly lower than experimental findings. The results suggest the importance of considering biases when estimating the price premium for animal welfare attributes in experiments. In addition, consumers are not always willing to pay premiums for organic products. Our results also show that WTP premiums are heterogeneous across store brands."
 
