@@ -4,7 +4,7 @@
 title: "Investigating the Effectiveness of Irrigation Restriction Length on Water Use Behavior"
 authors: [Xiangwen Kong, Chengyan Yue, Eric Watkins, Mike Barnes, Yufeng Lai]
 date: 2023-01-01
-doi: "https://doi.org/10.1017/S1742170522000333"
+doi: "https://doi.org/10.1007/s11269-022-03367-y"
 
 # Schedule page publish date (NOT publication's date).
 publishDate:
