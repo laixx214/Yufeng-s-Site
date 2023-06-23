@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:laixx214@umn.edu  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:laiyufengumn@gmail.com  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=UHcKM3gAAAAJ&hl=en
@@ -68,4 +68,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Yufeng Lai graduated as a Ph.D. from the Department of Applied Economics, University of Minnesota. His primary focuses are Consumer Behavior, Industrial Organization, Marketing Economics, and Agriculture Economics.
+Yufeng Lai graduated as a Ph.D. from the Department of Applied Economics, University of Minnesota. His primary focuses are Consumer Behavior, Industrial Organization, Marketing Economics, and Agriculture Economics. He is currently an economist at Amazon Web Service (AWS).
