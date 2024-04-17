@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Machine learning applications in household-level demand prediction"
-authors: [Shuoli Zhao, Yufeng Lai, Chenglong Ye, Keehyun Lee]
-date: 2022-09-07
-doi: "https://doi.org/10.1080/13504851.2022.2120954"
+title: "Do People Care about Others’ Benefits from Public Goods? An Investigation Based on Inequity Aversion Model"
+authors: [Xiangwen Kong, Chengyan Yue, Yufeng Lai ]
+date: 2023-09-29
+doi: "https://doi.org/10.1007/s10726-023-09854-w"
 
 # Schedule page publish date (NOT publication's date).
 publishDate:
@@ -16,17 +16,17 @@ publishDate:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Applied Economics Letters"
+publication: "Group Decision and Negotiation"
 publication_short: ""
 
-abstract: "Machine learning (ML) is becoming one of the most anticipated methods in predicting consumer demand. However, it is still uncertain how ML methods perform relative to traditional econometric methods under different dataset scales. This study estimates and compares the out-of-sample predictive accuracy of household budget share for organic fresh produce using two parametric models and six ML methods under regular and large sample sizes. Results show that ML method, particularly Logistic Elastic Net, performs better than econometric models under regular sample size. Contrarily, when dealing with big data, econometric models reach to same accuracy level as ML methods whereas random forest presents a possible overfitting problem. This study illustrates the competence of ML methods in demand prediction, but choosing the optimal method needs to consider product specifics, sample sizes, and observable features."
+abstract: "The inequity aversion model is fundamental to explaining the motivation of voluntary contribution behavior. Yet, the empirical studies limit the research on the inequity-aversion to small groups due to the difficulty of accounting for each individual’s payoff in the decision-making process for large group sizes. To overcome the technical barrier of estimating expected payoffs with large group sizes and various marginal returns, we adopt the Quantal Response Equilibrium estimation method that allows for an individual’s contribution to be impacted by their social preferences, i.e., inequality aversion, altruism, and bounded rationality. Our theoretical model identifies the equilibrium strategy of contribution. Using Bayesian inference via Markov Chain Monte Carlo, the experimental results show people are significantly worse off when they contribute more or less than others, meaning social equality promotes public good provisions. We find that marginal per capita return and group size play important roles in people’s contribution decisions, and the effect of marginal per capita return on contributions is stronger than that of group size."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags: []
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
